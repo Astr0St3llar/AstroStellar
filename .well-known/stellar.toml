@@ -1,7 +1,7 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GAIMV36WSTXZTW22DAGKMO34N4CWTOC4CZCKEAUIEHT47DQ2VS5FHJLY"
+"GDVLVAI72GSLWWKTO3TCCFRN2465EU6ZOXTTTTYUNY5GIQ4PP45NGTPH"
 ]
 VERSION="2.0.0"
 
@@ -15,16 +15,16 @@ ORG_OFFICIAL_EMAIL="astrostellar00@gmail.com"
 
 
 [[CURRENCIES]]
-code="xcb"
-issuer="GAIMV36WSTXZTW22DAGKMO34N4CWTOC4CZCKEAUIEHT47DQ2VS5FHJLY"
+code="encke"
+issuer="GDVLVAI72GSLWWKTO3TCCFRN2465EU6ZOXTTTTYUNY5GIQ4PP45NGTPH"
 anchor_asset="false"
-name="Cobalt"
-desc="Cobalt is an essential mineral used for batteries in electric cars, computers, and cell phones. Demand for cobalt is increasing as more electric cars are sold, particularly in Europe, where governments are encouraging the sales with generous environmental bonuses."
-image="https://i.ibb.co/LvRv9fM/cobalt.png"
-fixed_number=10000000
-max_number=10000000
+name="Encke Comet"
+desc="Comet Encke is a small comet. Its nucleus measures approximately 2.98 miles in diameter, which is about a third of the size of the object hypothesized to have led to the demise of the dinosaurs. It takes 3.30 years for Enke to orbit the sun once."
+image="https://i.ibb.co/Yhc7YTJ/encke-logo.png"
+fixed_number=25000000
+max_number=25000000
 is_unlimited=false
-#Cobalt was issued using the open and inclusive Stellar blockchain network.
+#Encke Comet was issued using the open and inclusive Stellar blockchain network.
 
 
 
