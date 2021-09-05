@@ -21,8 +21,8 @@ anchor_asset="false"
 name="Encke Comet"
 desc="Comet Encke is a small comet. Its nucleus measures approximately 2.98 miles in diameter, which is about a third of the size of the object hypothesized to have led to the demise of the dinosaurs. It takes 3.30 years for Enke to orbit the sun once."
 image="https://i.ibb.co/Yhc7YTJ/encke-logo.png"
-fixed_number=25000000
-max_number=25000000
+fixed_number=2500000
+max_number=2500000
 is_unlimited=false
 #Encke Comet was issued using the open and inclusive Stellar blockchain network.
 
