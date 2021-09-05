@@ -1,6 +1,7 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
+"GDVLVAI72GSLWWKTO3TCCFRN2465EU6ZOXTTTTYUNY5GIQ4PP45NGTPH",
 "GDVLVAI72GSLWWKTO3TCCFRN2465EU6ZOXTTTTYUNY5GIQ4PP45NGTPH"
 ]
 VERSION="2.0.0"
@@ -25,6 +26,19 @@ fixed_number=2500000
 max_number=2500000
 is_unlimited=false
 #Encke Comet was issued using the open and inclusive Stellar blockchain network.
+
+
+[[CURRENCIES]]
+code="haleb"
+issuer="GDVLVAI72GSLWWKTO3TCCFRN2465EU6ZOXTTTTYUNY5GIQ4PP45NGTPH"
+anchor_asset="false"
+name="Hale-Bopp Comet"
+desc="Hale–Bopp was a record-breaking comet. The farthest comet from the Sun discovered by amateurs, with the largest well-measured cometary nucleus, and it was visible to the naked eye for twice as long as the previous record-holder."
+image="https://i.ibb.co/MBrkLSb/hale-bopp.png"
+fixed_number=2500000
+max_number=2500000
+is_unlimited=false
+#Hale-Bopp Comet was issued using the open and inclusive Stellar blockchain network.
 
 
 
