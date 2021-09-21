@@ -18,7 +18,6 @@ ORG_OFFICIAL_EMAIL="astrostellar00@gmail.com"
 [[CURRENCIES]]
 code="encke"
 issuer="GDVLVAI72GSLWWKTO3TCCFRN2465EU6ZOXTTTTYUNY5GIQ4PP45NGTPH"
-anchor_asset="true"
 anchor_asset_type="fiat"
 anchor_asset="Rhodium"
 name="Encke Comet"
@@ -33,7 +32,6 @@ is_unlimited=false
 [[CURRENCIES]]
 code="haleb"
 issuer="GDZ3KSWQ3XOMNGQ622ZFJ2MGXKGBCMFM7L6EBQEDOLFG7Y27ENN3ETS6"
-anchor_asset="true"
 anchor_asset_type="fiat"
 anchor_asset="Rhodium"
 name="Hale-Bopp Comet"
