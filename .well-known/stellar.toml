@@ -2,7 +2,8 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 "GDVLVAI72GSLWWKTO3TCCFRN2465EU6ZOXTTTTYUNY5GIQ4PP45NGTPH",
-"GDZ3KSWQ3XOMNGQ622ZFJ2MGXKGBCMFM7L6EBQEDOLFG7Y27ENN3ETS6"
+"GDZ3KSWQ3XOMNGQ622ZFJ2MGXKGBCMFM7L6EBQEDOLFG7Y27ENN3ETS6",
+"GATG2VJOKEULN2IXFQI7GVDZZHEBOZ575RFSPIODT7JZ4GLHJPOYPPXP"
 ]
 VERSION="2.0.0"
 
@@ -18,7 +19,7 @@ ORG_OFFICIAL_EMAIL="astrostellar00@gmail.com"
 [[CURRENCIES]]
 code="encke"
 issuer="GDVLVAI72GSLWWKTO3TCCFRN2465EU6ZOXTTTTYUNY5GIQ4PP45NGTPH"
-anchor_asset_type="fiat"
+anchor_asset_type="crypto"
 anchor_asset="Rhodium"
 name="Encke Comet"
 desc="Comet Encke is a small comet. Its nucleus measures approximately 2.98 miles in diameter, which is about a third of the size of the object hypothesized to have led to the demise of the dinosaurs. It takes 3.30 years for Enke to orbit the sun once."
@@ -32,7 +33,7 @@ is_unlimited=false
 [[CURRENCIES]]
 code="haleb"
 issuer="GDZ3KSWQ3XOMNGQ622ZFJ2MGXKGBCMFM7L6EBQEDOLFG7Y27ENN3ETS6"
-anchor_asset_type="fiat"
+anchor_asset_type="crypto"
 anchor_asset="Rhodium"
 name="Hale-Bopp Comet"
 desc="Hale–Bopp was a record-breaking comet. The farthest comet from the Sun discovered by amateurs, with the largest well-measured cometary nucleus, and it was visible to the naked eye for twice as long as the previous record-holder."
@@ -41,6 +42,20 @@ fixed_number=2500000
 max_number=2500000
 is_unlimited=false
 #Hale-Bopp Comet was issued using the open and inclusive Stellar blockchain network.
+
+
+[[CURRENCIES]]
+code="HYK"
+issuer="GATG2VJOKEULN2IXFQI7GVDZZHEBOZ575RFSPIODT7JZ4GLHJPOYPPXP"
+anchor_asset_type="crypto"
+anchor_asset="Rhodium"
+name="Hyakutake Comet"
+desc="Comet Hyakutake is known for one of the closest cometary approaches of the previous 200 years near the Earth."
+image="https://i.ibb.co/B29wnsx/A9614484-07-A5-4-CC6-8-D8-A-8-CD19-D0-EBD65-modified.png"
+fixed_number=500000000
+max_number=500000000
+is_unlimited=false
+#Hyakutake Comet was issued using the open and inclusive Stellar blockchain network.
 
 
 
